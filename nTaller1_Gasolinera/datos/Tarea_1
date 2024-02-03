@@ -1,0 +1,14 @@
+tipo:Gasolina Corriente :12000:87.0
+tipo:ACPM:8000:87.0
+tipo:Gasolina Low Cost:8000:56.0
+tipo:ACPM Low Cost:6000:75.0
+tipo:Gasolina Extra:16000:63.0
+surtidor:Pablo:Gasolina Corriente :0.0:ACPM:0.0:Gasolina Low Cost:0.0:ACPM Low Cost:0.0:Gasolina Extra:0.0
+surtidor:David:Gasolina Corriente :0.0:ACPM:0.0:Gasolina Low Cost:0.0:ACPM Low Cost:0.0:Gasolina Extra:0.0
+surtidor:Samuel:Gasolina Corriente :0.0:ACPM:0.0:Gasolina Low Cost:0.0:ACPM Low Cost:0.0:Gasolina Extra:0.0
+surtidor:David:Gasolina Corriente :0.0:ACPM:0.0:Gasolina Low Cost:0.0:ACPM Low Cost:0.0:Gasolina Extra:0.0
+empleado:Pablo:0
+empleado:Samuel:0
+empleado:David:0
+empleado:Juan:0
+empleado:Nicolas:0
